@@ -1,4 +1,4 @@
-![Spinning Cat](assets/spinning_cat.gif)
+![Spinning Cat](assets/spinning-cat.gif)
 
 ## HOW TO BUILD
 
