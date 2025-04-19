@@ -1,13 +1,10 @@
-SPINNING CAT work in progress  
+![Spinning Cat](assets/spinning_cat.gif)
 
--------------------------------------------  
+## HOW TO BUILD
 
-HOW TO BUILD !?-    
-git clone https://github.com/vivek2584/spinning-cat/  
-mkdir build  
-cd build  
-cmake ..  
-make  
-
-then run:-  
-./SpinningCat  
+```bash
+git clone https://github.com/vivek2584/spinning-cat/
+mkdir build
+cd build
+cmake ..
+make
